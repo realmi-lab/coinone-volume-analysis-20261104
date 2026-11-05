@@ -18,6 +18,7 @@
 - [`coinone-arbitrage-tables-20261104.md`](coinone-arbitrage-tables-20261104.md) — 코인원·빗썸 ↔ 바이낸스, 코인원 ↔ 빗썸 재고 뒤집기 비교표 전체와 호가 상태
 - [`coinone-deep-research-20261104.md`](coinone-deep-research-20261104.md) — 공개 랭킹 집중도, 코인원 재무·투자, 규제, 경쟁사, 행사 종료 전례, 바이낸스·OKX USDC 행사 조건(원문)
 - [`coinone-onchain-20261104.md`](coinone-onchain-20261104.md) — 코인원 USDC(솔라나)·USDT(트론)·BTC 지갑과 해외 거래소 사이 흐름(원문)
+- [`coinone-wallet-attribution-20261104.md`](coinone-wallet-attribution-20261104.md) — 온체인 지갑이 코인원 것인지 귀속 확인(라벨·토큰계정 주인 직접 재확인)
 - [`external-analysis-check-20261104.md`](external-analysis-check-20261104.md) — 외부 분석의 주장별 검증 표
 - [`coinone-share-report-draft-20261104.md`](coinone-share-report-draft-20261104.md) — 11/4 오후의 초기 초안(최종은 종합 보고서 기준)
 
